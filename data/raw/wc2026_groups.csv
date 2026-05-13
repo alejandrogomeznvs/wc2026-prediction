@@ -1,0 +1,49 @@
+group,team,confederation,host_country,pot
+A,Mexico,CONCACAF,Yes,1
+A,South Korea,AFC,No,2
+A,South Africa,CAF,No,3
+A,Czech Republic,UEFA,No,4
+B,Canada,CONCACAF,Yes,1
+B,Switzerland,UEFA,No,2
+B,Bosnia and Herzegovina,UEFA,No,3
+B,Qatar,AFC,No,4
+C,United States,CONCACAF,Yes,1
+C,Turkey,UEFA,No,2
+C,Australia,AFC,No,3
+C,Paraguay,CONMEBOL,No,4
+D,Germany,UEFA,No,1
+D,Ecuador,CONMEBOL,No,2
+D,Ivory Coast,CAF,No,3
+D,Curaçao,CONCACAF,No,4
+E,Japan,AFC,No,1
+E,Netherlands,UEFA,No,2
+E,Sweden,UEFA,No,3
+E,Tunisia,CAF,No,4
+F,Spain,UEFA,No,1
+F,Saudi Arabia,AFC,No,2
+F,Uruguay,CONMEBOL,No,3
+F,Cape Verde,CAF,No,4
+G,France,UEFA,No,1
+G,Senegal,CAF,No,2
+G,Iraq,AFC,No,3
+G,Norway,UEFA,No,4
+H,Brazil,CONMEBOL,No,1
+H,Morocco,CAF,No,2
+H,Scotland,UEFA,No,3
+H,Haiti,CONCACAF,No,4
+I,Portugal,UEFA,No,1
+I,Colombia,CONMEBOL,No,2
+I,Uzbekistan,AFC,No,3
+I,DR Congo,CAF,No,4
+J,England,UEFA,No,1
+J,Panama,CONCACAF,No,2
+J,Croatia,UEFA,No,3
+J,Ghana,CAF,No,4
+K,Argentina,CONMEBOL,No,1
+K,Algeria,CAF,No,2
+K,Austria,UEFA,No,3
+K,Jordan,AFC,No,4
+L,Belgium,UEFA,No,1
+L,Iran,AFC,No,2
+L,New Zealand,OFC,No,3
+L,Egypt,CAF,No,4

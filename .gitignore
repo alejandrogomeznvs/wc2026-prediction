@@ -1,0 +1,53 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+.eggs/
+build/
+dist/
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# Entorno virtual
+venv/
+
+# Datos de entrenamiento grandes (no necesarios para el dashboard)
+data/processed/matches_clean.csv
+data/processed/features_train.csv
+
+# Modelos de entrenamiento antiguos / pesados (solo se conserva el final)
+src/models/gradient_boosting_train2018.joblib
+src/models/random_forest_train2018.joblib
+src/models/logistic_regression_train2018.joblib
+src/models/gradient_boosting_final_2025.joblib
+
+# Carpeta vacía de dashboard antiguo
+dashboard/
+
+# Python
+*.pkl
+*.h5
+
+# Logs
+*.log
+
+# Sistema
+Thumbs.db

@@ -1,0 +1,4 @@
+model,val_logloss,val_brier,val_acc,test_logloss,test_brier,test_acc
+Logistic Regression,0.8534,0.1668,0.6103,0.8454,0.1657,0.6164
+Random Forest,0.8929,0.1759,0.5754,0.8759,0.1724,0.5914
+Gradient Boosting,0.8844,0.172,0.5941,0.8741,0.1708,0.6069

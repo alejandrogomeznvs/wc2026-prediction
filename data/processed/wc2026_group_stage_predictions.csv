@@ -1,0 +1,73 @@
+date,home_team,away_team,tournament,prob_H,prob_A,prob_D,predicted
+2026-06-11,South Korea,Czech Republic,FIFA World Cup,0.4136,0.3606,0.2258,H
+2026-06-11,Mexico,South Africa,FIFA World Cup,0.7669,0.0575,0.1755,H
+2026-06-12,Canada,Bosnia and Herzegovina,FIFA World Cup,0.6352,0.1178,0.2469,H
+2026-06-12,United States,Paraguay,FIFA World Cup,0.419,0.3269,0.2541,H
+2026-06-13,Brazil,Morocco,FIFA World Cup,0.5832,0.1595,0.2573,H
+2026-06-13,Haiti,Scotland,FIFA World Cup,0.1916,0.5444,0.2641,A
+2026-06-13,Qatar,Switzerland,FIFA World Cup,0.0733,0.7448,0.1819,A
+2026-06-13,Australia,Turkey,FIFA World Cup,0.3339,0.3737,0.2924,A
+2026-06-14,Germany,Curaçao,FIFA World Cup,0.7164,0.1093,0.1743,H
+2026-06-14,Ivory Coast,Ecuador,FIFA World Cup,0.2409,0.4429,0.3161,A
+2026-06-14,Netherlands,Japan,FIFA World Cup,0.5518,0.1814,0.2668,H
+2026-06-14,Sweden,Tunisia,FIFA World Cup,0.5137,0.2338,0.2524,H
+2026-06-15,Spain,Cape Verde,FIFA World Cup,0.9076,0.0134,0.079,H
+2026-06-15,Belgium,Egypt,FIFA World Cup,0.6973,0.1069,0.1957,H
+2026-06-15,Iran,New Zealand,FIFA World Cup,0.6649,0.1045,0.2307,H
+2026-06-15,Saudi Arabia,Uruguay,FIFA World Cup,0.1193,0.6502,0.2305,A
+2026-06-16,Argentina,Algeria,FIFA World Cup,0.7633,0.0559,0.1808,H
+2026-06-16,Austria,Jordan,FIFA World Cup,0.7007,0.096,0.2033,H
+2026-06-16,Iraq,Norway,FIFA World Cup,0.1784,0.5506,0.271,A
+2026-06-16,France,Senegal,FIFA World Cup,0.6704,0.1086,0.221,H
+2026-06-17,Uzbekistan,Colombia,FIFA World Cup,0.1844,0.5155,0.3001,A
+2026-06-17,England,Croatia,FIFA World Cup,0.572,0.173,0.255,H
+2026-06-17,Portugal,DR Congo,FIFA World Cup,0.7374,0.0665,0.1961,H
+2026-06-17,Ghana,Panama,FIFA World Cup,0.2306,0.4754,0.294,A
+2026-06-18,Switzerland,Bosnia and Herzegovina,FIFA World Cup,0.7584,0.0749,0.1667,H
+2026-06-18,Canada,Qatar,FIFA World Cup,0.7173,0.065,0.2177,H
+2026-06-18,Czech Republic,South Africa,FIFA World Cup,0.4204,0.3518,0.2278,H
+2026-06-18,Mexico,South Korea,FIFA World Cup,0.5739,0.1715,0.2546,H
+2026-06-19,United States,Australia,FIFA World Cup,0.4462,0.2847,0.269,H
+2026-06-19,Brazil,Haiti,FIFA World Cup,0.8528,0.0288,0.1183,H
+2026-06-19,Scotland,Morocco,FIFA World Cup,0.2969,0.3966,0.3065,A
+2026-06-19,Turkey,Paraguay,FIFA World Cup,0.4721,0.2467,0.2812,H
+2026-06-20,Ecuador,Curaçao,FIFA World Cup,0.5457,0.1695,0.2848,H
+2026-06-20,Germany,Ivory Coast,FIFA World Cup,0.7446,0.0837,0.1717,H
+2026-06-20,Tunisia,Japan,FIFA World Cup,0.1962,0.5205,0.2833,A
+2026-06-20,Netherlands,Sweden,FIFA World Cup,0.6944,0.1176,0.188,H
+2026-06-21,Uruguay,Cape Verde,FIFA World Cup,0.7633,0.0613,0.1754,H
+2026-06-21,New Zealand,Egypt,FIFA World Cup,0.2312,0.4517,0.3171,A
+2026-06-21,Belgium,Iran,FIFA World Cup,0.6183,0.1504,0.2312,H
+2026-06-21,Spain,Saudi Arabia,FIFA World Cup,0.8899,0.0184,0.0916,H
+2026-06-22,Jordan,Algeria,FIFA World Cup,0.3089,0.384,0.3071,A
+2026-06-22,Argentina,Austria,FIFA World Cup,0.6816,0.1071,0.2114,H
+2026-06-22,France,Iraq,FIFA World Cup,0.8389,0.03,0.1311,H
+2026-06-22,Norway,Senegal,FIFA World Cup,0.4751,0.2359,0.289,H
+2026-06-23,Panama,Croatia,FIFA World Cup,0.2149,0.4926,0.2925,A
+2026-06-23,Colombia,DR Congo,FIFA World Cup,0.7011,0.0734,0.2255,H
+2026-06-23,England,Ghana,FIFA World Cup,0.8652,0.0232,0.1117,H
+2026-06-23,Portugal,Uzbekistan,FIFA World Cup,0.7201,0.0783,0.2016,H
+2026-06-24,Scotland,Brazil,FIFA World Cup,0.135,0.6557,0.2093,A
+2026-06-24,Mexico,Czech Republic,FIFA World Cup,0.4934,0.2701,0.2365,H
+2026-06-24,Morocco,Haiti,FIFA World Cup,0.7349,0.0604,0.2047,H
+2026-06-24,Bosnia and Herzegovina,Qatar,FIFA World Cup,0.5557,0.1739,0.2704,H
+2026-06-24,South Africa,South Korea,FIFA World Cup,0.2097,0.5238,0.2665,A
+2026-06-24,Canada,Switzerland,FIFA World Cup,0.2769,0.4207,0.3024,A
+2026-06-25,Paraguay,Australia,FIFA World Cup,0.4199,0.2607,0.3194,H
+2026-06-25,Ecuador,Germany,FIFA World Cup,0.2441,0.4573,0.2986,A
+2026-06-25,Curaçao,Ivory Coast,FIFA World Cup,0.3056,0.4524,0.2421,A
+2026-06-25,Tunisia,Netherlands,FIFA World Cup,0.1184,0.6623,0.2193,A
+2026-06-25,Japan,Sweden,FIFA World Cup,0.5763,0.1857,0.2381,H
+2026-06-25,United States,Turkey,FIFA World Cup,0.3613,0.397,0.2417,A
+2026-06-26,New Zealand,Belgium,FIFA World Cup,0.0772,0.7385,0.1843,A
+2026-06-26,Norway,France,FIFA World Cup,0.2145,0.5361,0.2494,A
+2026-06-26,Egypt,Iran,FIFA World Cup,0.3349,0.3324,0.3328,H
+2026-06-26,Senegal,Iraq,FIFA World Cup,0.6715,0.0886,0.2399,H
+2026-06-26,Cape Verde,Saudi Arabia,FIFA World Cup,0.3917,0.3171,0.2912,H
+2026-06-26,Uruguay,Spain,FIFA World Cup,0.1463,0.6187,0.235,A
+2026-06-27,Jordan,Argentina,FIFA World Cup,0.0564,0.7613,0.1823,A
+2026-06-27,Algeria,Austria,FIFA World Cup,0.319,0.3952,0.2858,A
+2026-06-27,Panama,England,FIFA World Cup,0.1022,0.6585,0.2393,A
+2026-06-27,Croatia,Ghana,FIFA World Cup,0.8063,0.0451,0.1486,H
+2026-06-27,Colombia,Portugal,FIFA World Cup,0.3997,0.3168,0.2835,H
+2026-06-27,DR Congo,Uzbekistan,FIFA World Cup,0.3859,0.2664,0.3477,H
