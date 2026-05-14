@@ -154,4 +154,4 @@ MIT — ver [LICENSE](./LICENSE) cuando se añada antes de publicar.
 
 ## Contacto
 
-Alejandro Gómez Navas · Barcelona · [GitHub](https://github.com/alejandrogomeznvs/wc2026-prediction)
+Alejandro Gómez Navas · Barcelona · [LinkedIn](https://www.linkedin.com/in/alejandro-gómez-navas) · [GitHub](https://github.com/alejandrogomeznvs/wc2026-prediction)
