@@ -7,10 +7,12 @@
 
 ## Demo
 
+**[wc2026-prediction.streamlit.app](https://wc2026-prediction.streamlit.app/)** — live dashboard
+
 ```bash
+# O en local:
 streamlit run dashboard.py
 ```
-→ http://localhost:8501
 
 ---
 
@@ -152,4 +154,4 @@ MIT — ver [LICENSE](./LICENSE) cuando se añada antes de publicar.
 
 ## Contacto
 
-Alejandro Gómez Navas · Barcelona · [LinkedIn / GitHub — añadir antes de publicar]
+Alejandro Gómez Navas · Barcelona · [GitHub](https://github.com/alejandrogomeznvs/wc2026-prediction)
