@@ -674,7 +674,7 @@ def page_bracket():
     min_w = 9 * MW + 8 * 12 + 40  # 9 cols + 8 connectors (12px each) + padding
     st.markdown(
         '<div style="background:#080c18;border:1px solid #1a2640;border-radius:14px;'
-        f'padding:20px 16px;overflow-x:auto;zoom:0.72;">'
+        f'padding:20px 16px;overflow-x:auto;zoom:0.94;">'
         f'<div style="display:flex;align-items:flex-start;gap:0;min-width:{min_w}px;">'
         + r32l + c1l + r16l + c2l + qfl + c3l + sfl + c4l
         + fin
